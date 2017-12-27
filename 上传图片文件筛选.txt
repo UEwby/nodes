@@ -1,0 +1,73 @@
+1、表单提交
+js：
+//form表单submit按钮提交
+$("#fileUpload").ajaxForm(function(data){
+    //表单提交后的回调处理
+    return false;
+});
+
+//文件类型input标签（type="file"）改变事件触发form提交
+$("#fileUpload").on('change',function(event){
+    $("form").submit()
+});
+
+html:
+<form id="fileUpload" class="file-upload"  action="url" method="POST" enctype="multipart/form-data">
+    <input type="file" name="file" class="file-select" value="选择文件">
+    <input type="submit" class="file-submit"value="上传文件">
+</form>
+
+插件：jQuery，jQuery.form
+
+
+2、图片上传验证
+js:
+//数组方法
+
+/**
+ * 是否为图片判断
+ * @param imageName 带文件格式的文件名（图片）
+ * @returns {boolean}
+ */
+function isImage(imageName){
+    //var strExtension = imageName.substr(imageName.lastIndexOf('.') + 1);
+    var strExtension = imageName.split(".")[imageName.split(".").length - 1];
+    var arr = ['jpeg','jpg','gif','png','bmp','JPEG','JPG','GIF','PNG','BMP'];
+    if(arr.contains(strExtension)){
+        return true;
+    }
+    return false;
+}
+
+Array.prototype.contains = function (needle) {
+    for (i in this) {
+        if (this[i] == needle) return true;
+    }
+    return false;
+}
+//绑定事件
+$("#fileUpload").on('change',function(event){
+    if($(this).val() != ''){
+        if (!isImage($(this).val())) {
+            alert("请选择图片文件")
+			return false;
+        }
+		//自动上传
+		$("form").submit();
+    }
+})
+
+html:
+<form class="file-upload"  action="url" method="POST" enctype="multipart/form-data">
+	<input type="file" name="file" id="fileUpload" value="选择文件">
+</form>
+
+插件：jQuery，jQuery.form
+
+
+3、额外的知识 Firefox 浏览器中行内元素隐藏input标签的办法，只写"width=0;"是错误的，不会隐藏input标签。正确方法如下:
+input {
+    width: 0;
+    height: 0;
+    visibility: hidden;
+}

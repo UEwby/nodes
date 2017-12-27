@@ -1,4 +1,4 @@
-1、npm -g全局安装地址：C:\Users\Administrator\AppData\Roaming\npm
+﻿1、npm -g全局安装地址：C:\Users\Administrator\AppData\Roaming\npm
 
 2、git 简单操作
 
@@ -14,3 +14,6 @@ git push -u origin master
 
 git remote add origin https://github.com/UEwby/nodes.git
 git push -u origin master
+
+2、图片默认地址
+<img class="siteImg" src="{{siteImg}}" onerror="javascript:this.src='../images/query_form.jpg';">
