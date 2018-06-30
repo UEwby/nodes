@@ -1,0 +1,53 @@
+一、网络教学平台教学平台8.0版开发升级：http://166.111.92.26/meoltest/index.do
+	网络教学平台教学平台7.0版开发升级：http://166.111.92.26/eoltest/homepage/common/
+	
+二、优慕课教学质量评价系统新版本开发升级：http://166.111.92.19/evaluate2/index.do
+
+三、动态门户网站新开发搭建：
+	1、内蒙古工业大学教务处http://202.207.16.239/jwzx/index.do
+	2、北京市煤炭矿用机电设备技术开发有限公司http://bmjd.bgy.org.cn/index.do?groupId=40
+	3、清华附属中学国际部英文版http://www.this.edu.cn/homepage/index.do?groupId
+	4、清华附属中学国际部中文版http://www.this.edu.cn/homepage/index.do?groupId=2
+	5、江西服装学院http://210.35.152.70/homepage/index.do
+	5、北京工业职业技术学院产学合作网http://news.bgy.org.cn/index.do?groupId=13
+	6、山东青年政治学院-教学质量与教学改革工程http://222.175.157.208/zlgc/index.do
+	7、女子学院教育教学综合评价系统http://219.242.28.144/evaluate/index.do
+	8、西北农林科技大学教育教学综合评价系统219.245.194.50/evaluate/
+	10、北方工业大学材料科学与工程系门户http://202.204.25.67/homepage/index.do?groupId=1
+
+四、动态门户网站新开发搭建：二次开发及升级
+	1、北京工业职业技术学院新闻网http://news.bgy.org.cn/index.do
+	2、北京工业职业技术学院信息中心http://news.bgy.org.cn/index.do?groupId=20
+	3、北京工业职业技术学院招生网http://news.bgy.org.cn/index.do?groupId=3
+	4、北京工业职业技术学院文法与管理学院http://jjgcx.bgy.org.cn/index.do?groupId=12
+	5、北方工业大学校友会http://202.204.26.132/alumni/index.do
+	6、海南大学校友会http://xyh.hainu.edu.cn/alumni/index.do
+	7、黑龙江大学校友总会http://210.46.97.96/alumni/index.do
+	8、中国海洋大学校友会：http://211.64.142.122/index.do?groupId
+	9、济宁医学院校友网http://alumni.jnmc.edu.cn/alumni/index.do
+	10、浙江工商职业技术学院校友网http://112.14.179.216/alumni/index.do
+	11、北京石油化工学院-教务在线http://jwgl.bipt.edu.cn/homepage/index.do
+	12、东北大学秦皇岛分校教务处http://jwc.neuq.edu.cn/homepage/index.do
+	13、西安航空职业技术学院教务处http://1.85.63.8/homepage/index.do
+	14、青岛大学教务处http://jw.qdu.edu.cn/homepage/index.do
+	15、中国传媒大学教务处http://jw.cuc.edu.cn/home/index.do
+	16、青岛大学教务处http://jw.qdu.edu.cn/homepage/index.do?groupId
+	17、桂林理工大学教务处http://202.193.80.58/info/index.do
+	18、呼和浩特民族学院教务处http://211.82.176.16/homepage/index.do
+	19、山东青年政治学院-教学质量与教学改革工程http://222.175.157.208/zlgc/index.do
+	20、陕西中医药大学-教学质量与教学改革工程http://218.195.64.23/zlgc/index.do
+	21、重庆大学-教学质量与教学改革工程http://eol.cqu.edu.cn/zlgc/index.do
+	22、云南大学-教学质量与教学改革工程：https://zlgc.ynu.edu.cn/zlgc/index.do
+	23、广州航海学院http://www.gzhmt.edu.cn/index.do
+	24、东北大学继续教育学院
+		主网站：http://www.neauce.com/index.do
+		成人教育：http://www.neauce.com/index.do?groupId=3
+		干部培新：http://www.neauce.com/index.do?groupId=4
+		网络教育：http://www.neauce.com/index.do?groupId=5
+	25、对外经贸大学研究生院http://yjsy.uibe.edu.cn/index.do?groupId
+	26、中国农业大学研究生院http://gradsch.cau.edu.cn/homepage/index.do?groupId
+	27、中国农业大学研究生院培养处http://gradsch.cau.edu.cn/homepage/index.do?groupId=7
+	28、重庆工商大学经济管理学院虚拟仿真实验教学中心http://vemc.ctbu.edu.cn/index.do
+	29、厦门大学英文版教学平台121.192.180.41/en/index.do
+
+
