@@ -8,3 +8,8 @@ https://192.168.12.12/svn/01研发中心/20项目及任务管理/一带一路数
 
 网络有害信息svn：
 https://192.168.12.12/svn/01研发中心/20项目及任务管理/网络有害信息专项监测项目/代码/前端
+
+Full Name：wangbinyan
+Public Email：1159018192@qq.com
+Username：wangbinyan
+Password：199200@@abc
